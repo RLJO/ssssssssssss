@@ -170,3 +170,7 @@
 	path = sale
 	url = https://github.com/RLCO/sale.git
 	branch = 12.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/RLCO/report-print-send.git
+	branch = 12.0
