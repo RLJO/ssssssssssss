@@ -162,3 +162,7 @@
 	path = rest-framework
 	url = https://github.com/RLCO/rest-framework.git
 	branch = 12.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/RLCO/rma.git
+	branch = 12.0
