@@ -182,3 +182,7 @@
 	path = search-engine
 	url = https://github.com/RLCO/search-engine.git
 	branch = 12.0
+[submodule "SerpentCS_Contributions"]
+	path = SerpentCS_Contributions
+	url = https://github.com/RLCO/SerpentCS_Contributions.git
+	branch = 12.0
