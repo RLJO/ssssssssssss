@@ -238,3 +238,43 @@
 	path = stock-logistics-transport
 	url = https://github.com/RLCO/stock-logistics-transport.git
 	branch = 12.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/RLCO/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/RLCO/stock-logistics-workflow.git
+	branch = 12.0
+[submodule "stock-rma"]
+	path = stock-rma
+	url = https://github.com/RLCO/stock-rma.git
+	branch = 12.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/RLCO/storage.git
+	branch = 12.0
+[submodule "survey"]
+	path = survey
+	url = https://github.com/RLCO/survey.git
+	branch = 12.0
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/RLCO/timesheet.git
+	branch = 12.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = https://github.com/RLCO/transport-management-system.git
+	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RLCO/trey-addons.git
+	branch = 12.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/RLCO/vertical-association.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RLCO/vertical-cooperative.git
+	branch = 12.0
