@@ -158,3 +158,7 @@
 	path = queue
 	url = https://github.com/RLCO/queue.git
 	branch = 12.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/RLCO/rest-framework.git
+	branch = 12.0
