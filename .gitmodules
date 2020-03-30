@@ -1,0 +1,80 @@
+[submodule "muk_bundles"]
+	path = muk_bundles
+	url = https://github.com/RLCO/muk_bundles.git
+	branch = 12.0
+[submodule "muk_dms"]
+	path = muk_dms
+	url = https://github.com/RLCO/muk_dms.git
+	branch = 12.0
+[submodule "muk_misc"]
+	path = muk_misc
+	url = https://github.com/RLCO/muk_misc.git
+	branch = 12.0
+[submodule "muk_web"]
+	path = muk_web
+	url = https://github.com/RLCO/muk_web.git
+	branch = 12.0
+[submodule "muk_website"]
+	path = muk_website
+	url = https://github.com/RLCO/muk_website.git
+	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/RLCO/multi-company.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RLCO/multi-store.git
+	branch = 12.0
+[submodule "oca-custom"]
+	path = oca-custom
+	url = https://github.com/RLCO/oca-custom.git
+	branch = 12.0
+[submodule "odoo-academic"]
+	path = odoo-academic
+	url = https://github.com/RLCO/odoo-academic.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RLCO/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RLCO/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "odoo-addons-hr-incubator"]
+	path = odoo-addons-hr-incubator
+	url = https://github.com/RLCO/odoo-addons-hr-incubator.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RLCO/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RLCO/odooapps.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RLCO/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "odoo-py3o-report-templates"]
+	path = odoo-py3o-report-templates
+	url = https://github.com/RLCO/odoo-py3o-report-templates.git
+	branch = 12.0
+[submodule "odoo-shopinvader"]
+	path = odoo-shopinvader
+	url = https://github.com/RLCO/odoo-shopinvader.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RLCO/odoo-shopinvader-payment.git
+	branch = 12.0
+[submodule "odoo-usability"]
+	path = odoo-usability
+	url = https://github.com/RLCO/odoo-usability.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RLCO/odoo-viewer-groups.git
+	branch = 12.0
