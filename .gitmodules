@@ -190,3 +190,7 @@
 	path = server-auth
 	url = https://github.com/RLCO/server-auth.git
 	branch = 12.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/RLCO/server-backend.git
+	branch = 12.0
