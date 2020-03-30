@@ -118,3 +118,43 @@
 	path = product-pack
 	url = https://github.com/RLCO/product-pack.git
 	branch = 12.0
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/RLCO/product-variant.git
+	branch = 12.0
+[submodule "profiloo"]
+	path = profiloo
+	url = https://github.com/RLCO/profiloo.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = https://github.com/RLCO/project.git
+	branch = 12.0
+[submodule "project-bid"]
+	path = project-bid
+	url = https://github.com/RLCO/project-bid.git
+	branch = 12.0
+[submodule "project-earned-value"]
+	path = project-earned-value
+	url = https://github.com/RLCO/project-earned-value.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/RLCO/project-reporting.git
+	branch = 12.0
+[submodule "purchase"]
+	path = purchase
+	url = https://github.com/RLCO/purchase.git
+	branch = 12.0
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = https://github.com/RLCO/purchase-reporting.git
+	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/RLCO/purchase-workflow.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/RLCO/queue.git
+	branch = 12.0
