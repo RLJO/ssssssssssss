@@ -278,3 +278,8 @@
 	path = vertical-cooperative
 	url = https://github.com/RLCO/vertical-cooperative.git
 	branch = 12.0
+
+[submodule "RLCO/storage"]
+	path = RLCO/storage
+	url = git@github.com:RLCO/storage.git
+	branch = 12.0
