@@ -166,3 +166,7 @@
 	path = rma
 	url = https://github.com/RLCO/rma.git
 	branch = 12.0
+[submodule "sale"]
+	path = sale
+	url = https://github.com/RLCO/sale.git
+	branch = 12.0
