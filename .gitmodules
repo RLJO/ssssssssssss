@@ -218,3 +218,23 @@
 	path = sale-workflow
 	url = https://github.com/RLCO/sale-workflow.git
 	branch = 12.0
+[submodule "social"]
+	path = social
+	url = https://github.com/RLCO/social.git
+	branch = 12.0
+[submodule "stock"]
+	path = stock
+	url = https://github.com/RLCO/stock.git
+	branch = 12.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/RLCO/stock-logistics-barcode.git
+	branch = 12.0
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/RLCO/stock-logistics-reporting.git
+	branch = 12.0
+[submodule "stock-logistics-transport"]
+	path = stock-logistics-transport
+	url = https://github.com/RLCO/stock-logistics-transport.git
+	branch = 12.0
