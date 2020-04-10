@@ -283,3 +283,8 @@
 	path = RLCO/storage
 	url = git@github.com:RLCO/storage.git
 	branch = 12.0
+
+[submodule "it-projects-llc/odoo-saas-tools"]
+	path = it-projects-llc/odoo-saas-tools
+	url = git@github.com:it-projects-llc/odoo-saas-tools.git
+	branch = 12.0
