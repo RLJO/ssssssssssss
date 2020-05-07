@@ -288,3 +288,8 @@
 	path = it-projects-llc/odoo-saas-tools
 	url = git@github.com:it-projects-llc/odoo-saas-tools.git
 	branch = 12.0
+
+[submodule "hr"]
+	path = hr
+	url = git@github.com:OCA-MUK/hr.git
+	branch = 12.0
