@@ -293,3 +293,8 @@
 	path = hr
 	url = git@github.com:OCA-MUK/hr.git
 	branch = 12.0
+
+[submodule "OCA-MUK/hr"]
+	path = OCA-MUK/hr
+	url = git@github.com:OCA-MUK/hr.git
+	branch = 12.0
